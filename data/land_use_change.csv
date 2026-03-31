@@ -1,0 +1,5 @@
+﻿field_id,land_use_change_type,area_ha,kgco2e_per_ha
+FLD1,none,50,0
+FLD2,cropland_to_perennial,45,-1200
+FLD3,none,40,0
+FLD4,cropland_to_perennial,38,-900

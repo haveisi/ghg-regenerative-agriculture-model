@@ -1,0 +1,3 @@
+﻿farm_id,animal_type,headcount,manure_system
+FARM1,dairy_cattle,80,liquid_slurry
+FARM2,beef_cattle,50,dry_lot

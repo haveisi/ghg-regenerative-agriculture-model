@@ -1,0 +1,4 @@
+﻿facility_id,subregion,electricity_mwh,method
+F1,RFCE,1200,location_based
+F2,SRMV,900,location_based
+F3,SPNO,700,location_based
