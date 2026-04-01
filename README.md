@@ -1,5 +1,7 @@
 # GHG Accounting Model for Regenerative Agriculture Supply Chains
 
+> In this modeled example, regenerative farming systems reduce emissions intensity by ~50–70% compared to conventional systems, primarily driven by lower fertilizer use and soil carbon improvements.
+
 ## Overview
 
 This project implements a Python-based greenhouse gas (GHG) accounting model for agricultural operations and supply chains. It estimates emissions across facilities, fleet fuel use, electricity consumption, and farm-level inputs, and compares conventional and regenerative farming systems.
